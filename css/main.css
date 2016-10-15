@@ -2,12 +2,14 @@ html {
   box-sizing: border-box;
   background-color: #dbd6cf;
   line-height: 1.5;
+  font-family: 'Bevan', cursive;
 }
 
 .tags {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-align: center;
 }
 
 .tags li {
@@ -16,6 +18,7 @@ html {
   padding: 0.3rem;
   background-color: #713837;
   border-radius: 5px;
+  text-align: left;
 }
 
 *, *::before, *::after {
