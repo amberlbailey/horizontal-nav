@@ -5,6 +5,10 @@ html {
   font-family: 'Bevan', cursive;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 .tags {
   margin: 0;
   padding: 0;
@@ -19,8 +23,4 @@ html {
   background-color: #713837;
   border-radius: 5px;
   text-align: left;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
 }
