@@ -4,6 +4,20 @@ html {
   line-height: 1.5;
 }
 
+.tags {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.tags li {
+  display: inline-block;
+  margin: 0.6em, 0.5em 0.75em;
+  padding: 0.3rem;
+  background-color: #713837;
+  border-radius: 5px;
+}
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
