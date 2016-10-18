@@ -9,6 +9,11 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
 .tags {
   font-family: sans-serif;
   margin: 0;
