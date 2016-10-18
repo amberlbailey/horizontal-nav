@@ -14,6 +14,15 @@ h1 {
   color: #fff;
 }
 
+body{
+  background-color: #79756f;
+  margin: 0;
+  padding: 0;
+  border-style: solid;
+  border-color: #595652;
+
+}
+
 .tags {
   font-family: sans-serif;
   margin: 0;
