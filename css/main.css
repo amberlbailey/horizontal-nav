@@ -11,11 +11,10 @@ html {
 h1 {
   text-align: center;
   color: #fff;
-  padding: 0em;
-  font-family: 'Bevan';
+  font-family: "Bevan";
 }
 
-body{
+body {
   background-color: #79756f;
   margin: 0;
   padding: 0;
