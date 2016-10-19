@@ -24,7 +24,7 @@ body{
 
 }
 
-.tags {
+.nav {
   font-family: sans-serif;
   margin: 0.3em;
   padding: 0.6em;
@@ -33,7 +33,7 @@ body{
   text-align: center;
 }
 
-.tags li {
+.nav li {
   display: inline-block;
   padding: 0.5rem;
   background-color: #713837;
